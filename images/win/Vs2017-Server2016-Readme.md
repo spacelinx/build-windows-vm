@@ -358,7 +358,7 @@ _Environment:_
 
 ## Node.js
 
-_Version:_ 8.9.4<br/>
+_Version:_ 8.10.0<br/>
 _Environment:_
 * PATH: contains location of node.exe<br/>
 
